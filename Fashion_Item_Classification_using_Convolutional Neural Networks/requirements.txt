@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow
+keras
+numpy
+pillow
+aiofiles
+scikit-image
