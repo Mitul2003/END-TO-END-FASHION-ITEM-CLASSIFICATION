@@ -178,9 +178,10 @@ You should now be able to upload images and see the classification results from 
 
 By following these instructions, you can deploy your Fashion Item Classification project on AWS and make it accessible over the internet.
 
-```sh
+
 
 ### Explanation
+
 - **Project Overview**: General description of the project and its objectives.
 - **Dataset**: Brief description of the dataset used.
 - **Installation**: Step-by-step instructions to set up the project locally.
@@ -192,7 +193,7 @@ By following these instructions, you can deploy your Fashion Item Classification
 - **Deployment on AWS**: Detailed steps on how to deploy the application to AWS EC2, including instance setup, Docker installation, and accessing the deployed application.
 
 Make sure to replace placeholders like `https://github.com/yourusername/fashion-item-classification.git` and `<your-ec2-instance-public-dns>` with your actual repository URL and your EC2 instance's public DNS address, respectively.
-```
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
